@@ -9,6 +9,16 @@ Este proyecto es una aplicación de cotización de seguros de automóviles. Los 
 - **Seleccionar Tipo de Cobertura:** Los usuarios pueden optar por una cobertura básica o completa.
 - **Mostrar Cotización:** La aplicación calcula y muestra el costo del seguro basado en las selecciones del usuario.
 
+- ## Demostración
+
+Puedes ver una demostración de la aplicación [aquí](https://cotizarunseguro.netlify.app/).
+
+## Instalación y Uso
+
+1. Clona este repositorio.
+2. Abre `index.html` en tu navegador.
+3. Completa el formulario para obtener una cotización de seguro.
+
 ## Código
 
 ### Constructores
@@ -160,16 +170,6 @@ UserInterface.prototype.mostrarResultado = (total, insurance) => {
     }, 2000);
 }
 ```
-
-## Demostración
-
-Puedes ver una demostración de la aplicación [aquí](https://cotizarunseguro.netlify.app/).
-
-## Instalación y Uso
-
-1. Clona este repositorio.
-2. Abre `index.html` en tu navegador.
-3. Completa el formulario para obtener una cotización de seguro.
 
 ## Contribuciones
 
